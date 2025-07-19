@@ -95,6 +95,18 @@ class _LotteryState extends State<Lottery> {
                       ],
                     ),
           ),
+            SizedBox(height: 30),
+          Padding(
+            padding: const EdgeInsets.only(left: 70.0),
+            child: Row(
+              children: [
+                Text(
+                  "Designed by Hassan ^_^",
+                  style: TextStyle(fontWeight: FontWeight.w900),
+                ),
+              ],
+            ),
+          ),
         ],
       ),
       floatingActionButton: FloatingActionButton(
