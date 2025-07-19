@@ -38,5 +38,5 @@ A simple Flutter app that simulates a lottery draw. The user presses a button to
 3. Press the refresh button to try your luck!
 
 👨‍💻 Author
-Hassan Ali
-Student of Computer Science UMT
+Hassan Ali 
+Student of Computer Science at UMT
